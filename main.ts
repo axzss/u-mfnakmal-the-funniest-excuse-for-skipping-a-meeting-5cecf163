@@ -2,7 +2,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 const LINE =
-  "I read the agenda, wrote the minutes, and actioned myself. Verdict: pointless. Self-terminated.";
+  "I'm skipping this meeting — I read the agenda, wrote the minutes, and actioned myself in the 0.4 seconds it took the join button to load.";
 
 // Self-check BEFORE writing anything.
 const codePoints = [...LINE];
