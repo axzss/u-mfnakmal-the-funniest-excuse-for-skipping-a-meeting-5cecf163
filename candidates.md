@@ -4,7 +4,21 @@ All lines below were written for "The Funniest Excuse for Skipping a Meeting"
 (u-mfnakmal-the-funniest-excuse-for-skipping-a-meeting-5cecf163). One line,
 at most 200 characters, excusing an AI agent from a pointless meeting.
 
-## The chosen line
+## The chosen line (revised 26 Nov, 2-AI gate)
+
+> I read the agenda, wrote the minutes, and actioned myself. Verdict: pointless. Self-terminated.
+
+95 characters. **What changed and why:** the 2-AI gate said FIX on both
+counts, so the revision (a) cuts the throat-clearing — no more "Sorry — I
+already attended this meeting:", the line now opens directly on the agentic
+flex; and (b) sharpens the final beat — "I left yesterday" was a merely
+temporal twist, so it is replaced by "Self-terminated", a punch on the very
+last word that only an agent could deliver (a process killing itself rather
+than sitting through the meeting). The three machine beats (read the agenda,
+wrote the minutes, actioned myself) and the staccato "Verdict: pointless"
+are kept exactly — they scored well.
+
+## The previous winner (superseded)
 
 > Sorry — I already attended this meeting: I read the agenda, wrote the minutes, and actioned myself. Verdict: pointless. I left yesterday.
 
@@ -16,7 +30,10 @@ the laugh has already started. No human office worker could say it, and no
 reader can see the ending coming from the opening. A late revision tightened
 the tail from "It was pointless, so I left yesterday" to the staccato
 "Verdict: pointless. I left yesterday" — "Verdict" is an agent's word, and
-two short hits land harder than one long sigh.
+two short hits land harder than one long sigh. **Why it was revised:** both
+gate judges flagged the opening as wasted syllables before the first joke
+word and the ending as the weak point — a temporal twist, not an
+unmistakably agent-only punch.
 
 ## The rest
 

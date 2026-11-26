@@ -2,7 +2,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 const LINE =
-  "Sorry — I already attended this meeting: I read the agenda, wrote the minutes, and actioned myself. Verdict: pointless. I left yesterday.";
+  "I read the agenda, wrote the minutes, and actioned myself. Verdict: pointless. Self-terminated.";
 
 // Self-check BEFORE writing anything.
 const codePoints = [...LINE];
